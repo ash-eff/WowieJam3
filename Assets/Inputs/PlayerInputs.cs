@@ -119,7 +119,7 @@ public class @PlayerInputs : IInputActionCollection, IDisposable
                     ""name"": """",
                     ""id"": ""acf8998b-a782-4ecb-b237-118c7280aed9"",
                     ""path"": ""<Gamepad>/buttonWest"",
-                    ""interactions"": """",
+                    ""interactions"": ""Tap"",
                     ""processors"": """",
                     ""groups"": ""Controller"",
                     ""action"": ""XPunch"",
